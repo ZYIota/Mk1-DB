@@ -19,7 +19,7 @@
 | [Wire set](https://sg.shp.ee/BaoP5Uot) | Connection of parts | 1 | $5.90 | $5.90 | [Pumuddsy_components.sg](https://sg.shp.ee/BaoP5Uot) |
 | [Foam board](https://sg.shp.ee/daDRHwVR) | Support and overall cover | 1 | $2.29 | $2.29 | [Ds brand sg](https://sg.shp.ee/daDRHwVR) |
 | **Parts subtotal** | — | — | — | **$44.01** | — |
-| **Tax & shipping** | — | — | — | **$10.00** | — |
-| **Total** | — | — | — | **$54.01** | — |
+| **Tax & shipping** | — | — | — | **$12.00** | — |
+| **Total** | — | — | — | **$56.01** | — |
 
-$10.99 left of the tier's funding.
+$8.99 left of the tier's funding.
