@@ -14,12 +14,11 @@
 | --- | --- | --- | --- | --- | --- |
 | [SG90 Servo motor+tilt for camera](https://sg.shp.ee/WycinmXj) | To turn screen in both up down left right | 1 | $5.30 | $5.30 | [Reland2.sg](https://sg.shp.ee/WycinmXj) |
 | [Ips screen](https://sg.shp.ee/Ce3vf4Gr) | Displaying emoticons etc | 1 | $6.00 | $6.00 | [Aitexm.sg](https://sg.shp.ee/Ce3vf4Gr) |
-| [OV5640 camera esp module](https://sg.shp.ee/JszyAswA) | To allow visual information | 1 | $10.77 | $10.77 | [Ec buying,sg](https://sg.shp.ee/JszyAswA) |
 | [Esp32](https://sg.shp.ee/AuZtLsBt) | For running programs | 1 | $7.19 | $7.19 | [Super module.sg](https://sg.shp.ee/AuZtLsBt) |
 | [Esp32 with cam](https://sg.shp.ee/6onCnpu4) | Main cam and controller of the cam | 1 | $17.33 | $17.33 | [Relandor](https://sg.shp.ee/6onCnpu4) |
 | [Wire set](https://sg.shp.ee/BaoP5Uot) | Connection of parts | 1 | $5.90 | $5.90 | [Pumuddsy_components.sg](https://sg.shp.ee/BaoP5Uot) |
-| **Parts subtotal** | — | — | — | **$52.49** | — |
+| **Parts subtotal** | — | — | — | **$41.72** | — |
 | **Tax & shipping** | — | — | — | **$10.00** | — |
-| **Total** | — | — | — | **$62.49** | — |
+| **Total** | — | — | — | **$51.72** | — |
 
-$2.51 left of the tier's funding.
+$13.28 left of the tier's funding.
