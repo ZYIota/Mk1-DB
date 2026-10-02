@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Js a mini desktop/shoulder buddy that has recognition software
+> Js a mini desktop/shoulder buddy that has recognition software and display
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
