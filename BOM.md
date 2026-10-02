@@ -19,7 +19,7 @@
 | [Esp32 with cam](https://sg.shp.ee/6onCnpu4) | Main cam and controller of the cam | 1 | $17.33 | $17.33 | [Relandor](https://sg.shp.ee/6onCnpu4) |
 | [Wire set](https://sg.shp.ee/BaoP5Uot) | Connection of parts | 1 | $5.90 | $5.90 | [Pumuddsy_components.sg](https://sg.shp.ee/BaoP5Uot) |
 | **Parts subtotal** | — | — | — | **$52.49** | — |
-| **Tax & shipping** | — | — | — | **$16.50** | — |
-| **Total** | — | — | — | **$68.99** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$52.49** | — |
 
-**$3.99 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$12.51 left of the tier's funding.
