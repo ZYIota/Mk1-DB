@@ -10,20 +10,21 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Warm-up | Tier 2 | 5h | 1 |
+| Warm-up | Tier 2 | 4.8h | 1 |
 
 ## Contents
 
-1. [2026-10-02 — ![84985](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r5bMBX0H7YbZBBNqvL7tkHYrGZarrXXe/96775c6c64f75ee43e860c45062c0b9cffcfeb27e2d15a1dc8e18457329a233f.png)](#2026-10-02-84985httpshalflifehackclub-assetscomhackclub-half)
+1. [2026-10-02 — (DAY 1 PROGRESS)](#2026-10-02-day-1-progress)
 
 ## Design
 
-### 2026-10-02 — ![84985](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r5bMBX0H7YbZBBNqvL7tkHYrGZarrXXe/96775c6c64f75ee43e860c45062c0b9cffcfeb27e2d15a1dc8e18457329a233f.png)
+### 2026-10-02 — (DAY 1 PROGRESS)
 
-**5h**
+**4.8h**
 
+(DAY 1 PROGRESS)
 ![84985](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r5bMBX0H7YbZBBNqvL7tkHYrGZarrXXe/96775c6c64f75ee43e860c45062c0b9cffcfeb27e2d15a1dc8e18457329a233f.png)
-This is my proposed design, I took like 2 hours on this design and configuration, I spent another hour on part sourcing, this is a desktop buddy that tracks you, keeps us company during gaming sessions or when moving around.
+This is my proposed design, I took like 2 hours on this design and configuration, I spent another hour on part sourcing, this is a desktop buddy that tracks you, keeps us company during gaming sessions or when moving around, it has an LCD display to display text based emotions/emoticons . It was very difficult to find a good PTZ bracket that could tilt and comes with 2 SG90 motors, so I do not have to buy extras. I also had to find a set of wires since most shops only offered either male to male, female to female or male to female jumper wires, so I do not have to waste shipping on buying separate sets of wires.
 
 ![84980](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r5bMBX0H7YbZBBNqvL7tkHYrGZarrXXe/4ec8e344c7b6e300eb41e4525df1f41386cf96ca23da3499b25a62fe99e12b9f.jpg)
 This is some of the stuff I looked for, I made sure the parts were compatible and working, and not a scam (probably)
@@ -31,10 +32,12 @@ This is some of the stuff I looked for, I made sure the parts were compatible an
 Moving on, these were my old proposed designs( I am not using them). I spent like 2 hours on ideating
 
 ![84984](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r5bMBX0H7YbZBBNqvL7tkHYrGZarrXXe/5893ff278b452623f22934b78e99984a98d7632d616d100913a1cd4e310c8dc1.png)
-This is a plant watering device
+This is a plant watering device, using soil moisture content as a gauge for when the water should be supplied.
 
 ![84986](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r5bMBX0H7YbZBBNqvL7tkHYrGZarrXXe/ed9dbc5ec39132229d529b936186d2ffb7fe10839e2bb6b267003ee8ac90b003.jpg)
-This is a light train that detects movements and lights up to the nearest light switch
+This is a light train that detects movements and lights up to the nearest light switch, really good as a  in-real-life application, but I think hardware limitations would cause too many inaccurate readings that may cause light to be shining at weird intervals.
 
 ![84987](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r5bMBX0H7YbZBBNqvL7tkHYrGZarrXXe/9c4aa566723f8af8e8983ffda049c8a77d75ca4113fc330a4e1c3f66366afa1a.jpg)
 This is practically a mini pc but with software that downloads specific app info with a click of a button like what apps we had, photos, depends on what I program it to store on a small SSD, I found the software abit too hard so I gave up on this and it was really expensive
+
+Overall, I had to think a lot about whether I wanted to push for more hours or less based on the project I finally chose. I stuck to the current design as it is both a mix of software and hardware, and does not require the highest-tier commitment.
