@@ -17,7 +17,7 @@
 | [Ips screen](https://sg.shp.ee/Ce3vf4Gr) | Displaying emoticons etc | 1 | $6.00 | $6.00 | [Aitexm.sg](https://sg.shp.ee/Ce3vf4Gr) |
 | [OV5640 camera esp module](https://sg.shp.ee/JszyAswA) | To allow visual information | 1 | $10.77 | $10.77 | [Ec buying,sg](https://sg.shp.ee/JszyAswA) |
 | **Parts subtotal** | — | — | — | **$46.16** | — |
-| **Tax & shipping** | — | — | — | **$15.00** | — |
-| **Total** | — | — | — | **$61.16** | — |
+| **Tax & shipping** | — | — | — | **$16.50** | — |
+| **Total** | — | — | — | **$62.66** | — |
 
-$3.84 left of the tier's funding.
+$2.34 left of the tier's funding.
