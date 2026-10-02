@@ -12,12 +12,11 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Esp 32kit](https://sg.shp.ee/RhvmdFge) | Running programs that allow motor and display to work | 1 | $24.09 | $24.09 | [youyilu.sg](https://sg.shp.ee/RhvmdFge) |
 | [SG90 Servo motor+tilt for camera](https://sg.shp.ee/WycinmXj) | To turn screen in both up down left right | 1 | $5.30 | $5.30 | [Reland2.sg](https://sg.shp.ee/WycinmXj) |
 | [Ips screen](https://sg.shp.ee/Ce3vf4Gr) | Displaying emoticons etc | 1 | $6.00 | $6.00 | [Aitexm.sg](https://sg.shp.ee/Ce3vf4Gr) |
 | [OV5640 camera esp module](https://sg.shp.ee/JszyAswA) | To allow visual information | 1 | $10.77 | $10.77 | [Ec buying,sg](https://sg.shp.ee/JszyAswA) |
-| **Parts subtotal** | — | — | — | **$46.16** | — |
+| **Parts subtotal** | — | — | — | **$22.07** | — |
 | **Tax & shipping** | — | — | — | **$16.50** | — |
-| **Total** | — | — | — | **$62.66** | — |
+| **Total** | — | — | — | **$38.57** | — |
 
-$2.34 left of the tier's funding.
+$26.43 left of the tier's funding.
